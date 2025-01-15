@@ -142,7 +142,7 @@ These metrics indicate the model's accuracy in predicting both target variables.
 
 The project includes a Streamlit-based diagnostic tool that allows users to input demographic and temporal data to predict Crude Rate and Survival Rate.
 
-- Access the tool here: [Hodgkin Lymphoma Diagnostic Tool](https://oral-and-pharyngeal-cancers-lstm.streamlit.app/)
+- Access the tool here: [Oral and Pharyngeal Cancers Diagnostic Tool](https://oral-and-pharyngeal-cancers-lstm.streamlit.app/)
 - ### Example Output
 ![Diagnostic Tool Screenshot](OPC_result.png)
 
