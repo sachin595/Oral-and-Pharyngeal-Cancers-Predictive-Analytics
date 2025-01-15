@@ -1,4 +1,5 @@
 # Oral and Pharyngeal Cancers Predictive Analytics
+Leveraging LSTM for Predictive Mortality Modeling in Oral and Pharyngeal Cancers
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oral-and-pharyngeal-cancers-lstm.streamlit.app/)
 
@@ -31,7 +32,9 @@
 
 ## Introduction
 
-This project focuses on developing advanced predictive analytics for **Oral and Pharyngeal Cancers** by utilizing a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two key health metrics: **Crude Mortality Rate** (number of deaths per 100,000 individuals in a given year) and **Survival Rate** (likelihood of survival as a percentage). By leveraging demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes.
+**Oral and pharyngeal cancers** pose a significant public health challenge, characterized by varying incidence and mortality rates across different age groups, genders, and ethnic populations. Accurate prediction of mortality rates in these cancers is crucial for improving therapeutic strategies and enhancing patient prognosis.
+
+This project leverages advanced predictive analytics by employing a **Long Short-Term Memory (LSTM)** neural network to address these challenges. The model is designed to predict two critical health metrics: **Crude Mortality Rate** (the number of deaths per 100,000 individuals annually) and **Survival Rate** (the percentage likelihood of survival). By utilizing a comprehensive dataset that incorporates demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes. Additionally, this study examines current trends in oral and pharyngeal cancers and proposes a predictive framework to project future trends, supporting healthcare providers in developing more effective and personalized treatment approaches.
 
 Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Oral and Pharyngeal Cancers** outcomes. The project emphasizes precision and temporal modeling to support informed decision-making in public health and oncology.
 
